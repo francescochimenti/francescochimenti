@@ -1,7 +1,8 @@
-[![MasterHead](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/)](https://www.linkedin.com/in/francesco-chimenti-6674a026b/)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/francesco-chimenti-6674a026b/)
 <h1 align="center">Hi 👋, I'm Francesco Chimenti</h1>
 <h3 align="center">A passionate Full stack developer from Italy</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif”>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzanI0cWFxM2I4Z24zdDdoM2lxa2wxNGJrc2ZqeGhzNjhjaXE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francescochimenti&label=Profile%20views&color=ffdd00&style=flat" alt="francescochimenti" /> </p>
 
@@ -27,8 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/francescochimenti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="francescochimenti" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescochimenti&show_icons=true&theme=dark&locale=en&layout=compact" alt="francescochimenti" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescochimenti&show_icons=true&theme=dark&locale=en&layout=compact" alt="francescochimenti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescochimenti&show_icons=true&locale=en" alt="francescochimenti" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=francescochimenti&show_icons=true&locale=en" alt="francescochimenti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francescochimenti&" alt="francescochimenti" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=francescochimenti&" alt="francescochimenti" /></p>
