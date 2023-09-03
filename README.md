@@ -1,5 +1,3 @@
-[![The Tech Maestro](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/francesco-chimenti-6674a026b/)
-
 <h1 align="center">Hi 👋, I'm Francesco Chimenti</h1>
 <h3 align="center">Full Stack Developer by day, superhero of the pizza and pasta realm by night! Made in Italy🇮🇹, seasoned with code and parmesan. 🍕🍝🔧</h3>
 <img align="right" alt="Francesco in action" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzanI0cWFxM2I4Z24zdDdoM2lxa2wxNGJrc2ZqeGhzNjhjaXE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
