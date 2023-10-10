@@ -7,7 +7,7 @@
    🖥️ Profile Popularity: <img src="https://komarev.com/ghpvc/?username=francescochimenti&label=Profile%20views&color=ffdd00&style=flat" alt="francescochimenti" />
 </p>
 
-- 📚 Currently mastering the arts at [Epicode](https://github.com/francescochimenti/corsowebdev)
+- 📚 Currently mastering the arts at [Epicode](https://github.com/francescochimenti/finalexam-m5)
 - 🌱 Diving deep into the world of **React**
 - 👨‍💻 Want to witness my digital masterpieces? They're all right [here](#)
 - 💌 Reach out to me at **francescochimenti99@icloud.com**
