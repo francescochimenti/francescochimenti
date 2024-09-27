@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francesco Chimenti</h1>
-<h3 align="center">Full Stack Developer by day, superhero of the pizza and pasta realm by night! Made in Italy🇮🇹, seasoned with code and parmesan. 🍕🍝🔧</h3>
-<img align="right" alt="Francesco in action" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzanI0cWFxM2I4Z24zdDdoM2lxa2wxNGJrc2ZqeGhzNjhjaXE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<h3 align="center">Software Engineer</h3>
+<img align="right" alt="Francesco in action" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzanI0cWFxM2I4Z24zdDdoM2lxa2wxNGJrc2ZqeGhzNjhjaXE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 <p align="left">
    🍝 Spaghetti code? Not in my kitchen! <br>
@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 Diving deep into the world of **React**
-- 👨‍💻 Want to witness my digital masterpieces? They're all in my portfolio [CLICK HERE](https://francescochimenti.it)
+- 👨‍💻 My portfolio [CLICK HERE](https://francescochimenti.it)
 - 💌 Reach out to me at **francescochimenti99@icloud.com**
 - ⚡ Did you know? **Microsoft’s Windows OS source code is the heaviest thing on GitHub! It's so big that they had to modify Git to handle the whopping 300GB! Talk about heavy lifting 💽🖥️**
 
