@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Francesco Chimenti</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer  
+   <br>
+   <br>
+   <img src="https://komarev.com/ghpvc/?username=francescochimenti&label=Profile%20views&color=ffdd00&style=flat" alt="francescochimenti" />
+
+</h3>
 <img align="right" alt="Francesco in action" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzanI0cWFxM2I4Z24zdDdoM2lxa2wxNGJrc2ZqeGhzNjhjaXE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 <p align="left">
-   🍝 Spaghetti code? Not in my kitchen! <br>
-   <img src="https://komarev.com/ghpvc/?username=francescochimenti&label=Profile%20views&color=ffdd00&style=flat" alt="francescochimenti" />
+   🍝 Spaghetti code? Not in my kitchen! 
 </p>
 
-- 🌱 Diving deep into the world of **React**
 - 👨‍💻 My portfolio [CLICK HERE](https://francescochimenti.it)
 - 💌 Reach out to me at **francescochimenti99@icloud.com**
 - ⚡ Did you know? **Microsoft’s Windows OS source code is the heaviest thing on GitHub! It's so big that they had to modify Git to handle the whopping 300GB! Talk about heavy lifting 💽🖥️**
 
 <h3 align="left">Let's mingle:</h3>
 <p align="left">
+   
 <a href="https://www.linkedin.com/in/francesco-chimenti-6674a026b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francescochimenti" height="30" width="40" /></a>
 <a href="https://instagram.com/francescochimentii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francescochimentii" height="30" width="40" /></a>
 </p>
