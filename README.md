@@ -4,7 +4,7 @@
 
 <p align="left">
    🍝 Spaghetti code? Not in my kitchen! <br>
-   🖥️ Profile Popularity: <img src="https://komarev.com/ghpvc/?username=francescochimenti&label=Profile%20views&color=ffdd00&style=flat" alt="francescochimenti" />
+   <img src="https://komarev.com/ghpvc/?username=francescochimenti&label=Profile%20views&color=ffdd00&style=flat" alt="francescochimenti" />
 </p>
 
 - 🌱 Diving deep into the world of **React**
